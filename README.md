@@ -1,2 +1,2 @@
 # couples-parfaits
-Jeu couple parfait du minitel 
+Jeu couples parfaits du minitel 
